@@ -1,0 +1,38 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+}
+
+h1{
+    text-align: center;
+}
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+main{
+    background-color: white;
+    padding: 16px;
+}
+
+.post {
+    margin-bottom: 48px;
+}
+
+.post .user-info img{
+    border-radius: 50%;
+}
+
+a:hover{
+    color: deeppink;
+}
+
+a:active{
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
